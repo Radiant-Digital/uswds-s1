@@ -1,0 +1,232 @@
+.element-home-page-c {
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.element-home-page-c .dropdown-menu-wrapper-2 {
+  background-image: url(../img/homepage-3@2x.png);
+  background-size: 100% 100%;
+  border: 1px none;
+  height: 7623px;
+  width: 1920px;
+}
+
+.element-home-page-c .dropdown-menu-2 {
+  background-color: #ffffff;
+  box-shadow: 26px 28px 101px #00000026;
+  height: 248px;
+  position: relative;
+  top: 250px;
+}
+
+.element-home-page-c .frame-wrapper {
+  height: 208px;
+  left: 60px;
+  position: absolute;
+  top: 20px;
+  width: 300px;
+}
+
+.element-home-page-c .frame-7 {
+  height: 208px;
+  position: relative;
+}
+
+.element-home-page-c .frame-8 {
+  height: 124px;
+  left: 20px;
+  position: absolute;
+  top: 20px;
+  width: 260px;
+}
+
+.element-home-page-c .all-programs-2 {
+  color: #162e51;
+  font-family: "Public Sans", Helvetica;
+  font-size: 22px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+  width: 240px;
+}
+
+.element-home-page-c .text-wrapper-3 {
+  color: #162e51;
+  font-family: "Public Sans", Helvetica;
+  font-size: 22px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-home-page-c .convallis-turpis-2 {
+  color: #162e51;
+  font-family: "Public Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 136.5px;
+  position: absolute;
+  top: 35px;
+  white-space: nowrap;
+  width: 240px;
+}
+
+.element-home-page-c .text-wrapper-4 {
+  color: #162e51;
+  font-family: "Public Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 136.5px;
+}
+
+.element-home-page-c .arrow-link-2 {
+  height: 24px;
+  left: 20px;
+  position: absolute;
+  top: 164px;
+  width: 260px;
+}
+
+.element-home-page-c .view-all-programs {
+  color: #005ea2;
+  font-family: "Public Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2px;
+  white-space: nowrap;
+}
+
+.element-home-page-c .text-wrapper-5 {
+  color: #005ea2;
+  font-family: "Public Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-home-page-c .icon-2 {
+  background-color: #d9e8f680;
+  background-image: url(../img/icon-2@2x.png);
+  background-size: 100% 100%;
+  border-radius: 12px;
+  height: 24px;
+  left: 149px;
+  position: absolute;
+  top: 0;
+  width: 24px;
+}
+
+.element-home-page-c .dropdown-link-2 {
+  height: 208px;
+  left: 360px;
+  position: absolute;
+  top: 20px;
+  width: 300px;
+}
+
+.element-home-page-c .icon-3 {
+  background-color: #d9e8f680;
+  background-image: url(../img/icon-3@2x.png);
+  background-size: 100% 100%;
+  border-radius: 12px;
+  height: 24px;
+  left: 129px;
+  position: absolute;
+  top: 0;
+  width: 24px;
+}
+
+.element-home-page-c .dropdown-link-3 {
+  height: 208px;
+  left: 660px;
+  position: absolute;
+  top: 20px;
+  width: 300px;
+}
+
+.element-home-page-c .icon-4 {
+  background-color: #d9e8f680;
+  background-image: url(../img/icon-4@2x.png);
+  background-size: 100% 100%;
+  border-radius: 12px;
+  height: 24px;
+  left: 117px;
+  position: absolute;
+  top: 0;
+  width: 24px;
+}
+
+.element-home-page-c .dropdown-link-4 {
+  height: 208px;
+  left: 960px;
+  position: absolute;
+  top: 20px;
+  width: 300px;
+}
+
+.element-home-page-c .icon-5 {
+  background-color: #d9e8f680;
+  background-image: url(../img/icon-5@2x.png);
+  background-size: 100% 100%;
+  border-radius: 12px;
+  height: 24px;
+  left: 78px;
+  position: absolute;
+  top: 0;
+  width: 24px;
+}
+
+.element-home-page-c .dropdown-link-5 {
+  height: 208px;
+  left: 1260px;
+  position: absolute;
+  top: 20px;
+  width: 300px;
+}
+
+.element-home-page-c .icon-6 {
+  background-color: #d9e8f680;
+  background-image: url(../img/icon-6@2x.png);
+  background-size: 100% 100%;
+  border-radius: 12px;
+  height: 24px;
+  left: 129px;
+  position: absolute;
+  top: 0;
+  width: 24px;
+}
+
+.element-home-page-c .dropdown-link-6 {
+  height: 208px;
+  left: 1560px;
+  position: absolute;
+  top: 20px;
+  width: 300px;
+}
+
+.element-home-page-c .icon-7 {
+  background-color: #d9e8f680;
+  background-image: url(../img/icon-7@2x.png);
+  background-size: 100% 100%;
+  border-radius: 12px;
+  height: 24px;
+  left: 129px;
+  position: absolute;
+  top: 0;
+  width: 24px;
+}

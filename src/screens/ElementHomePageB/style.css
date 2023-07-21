@@ -1,0 +1,230 @@
+.element-home-page-b {
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.element-home-page-b .dropdown-menu-wrapper {
+  background-image: url(../img/homepage-2@2x.png);
+  background-size: 100% 100%;
+  border: 1px none;
+  height: 7623px;
+  width: 1920px;
+}
+
+.element-home-page-b .dropdown-menu {
+  background-color: #ffffff;
+  box-shadow: 26px 28px 101px #00000026;
+  height: 270px;
+  position: relative;
+  top: 250px;
+}
+
+.element-home-page-b .dropdown-link {
+  height: 230px;
+  left: 200px;
+  position: absolute;
+  top: 20px;
+  width: 340px;
+}
+
+.element-home-page-b .frame {
+  height: 230px;
+  position: relative;
+}
+
+.element-home-page-b .frame-2 {
+  height: 146px;
+  left: 20px;
+  position: absolute;
+  top: 20px;
+  width: 320px;
+}
+
+.element-home-page-b .all-programs {
+  color: #162e51;
+  font-family: "Public Sans", Helvetica;
+  font-size: 22px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+  width: 320px;
+}
+
+.element-home-page-b .text-wrapper {
+  color: #162e51;
+  font-family: "Public Sans", Helvetica;
+  font-size: 22px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-home-page-b .convallis-turpis {
+  color: #162e51;
+  font-family: "Public Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 136.5px;
+  position: absolute;
+  top: 35px;
+  white-space: nowrap;
+  width: 320px;
+}
+
+.element-home-page-b .span {
+  color: #162e51;
+  font-family: "Public Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 136.5px;
+}
+
+.element-home-page-b .arrow-link {
+  height: 24px;
+  left: 20px;
+  position: absolute;
+  top: 186px;
+  width: 154px;
+}
+
+.element-home-page-b .about-administration {
+  color: #005ea2;
+  font-family: "Public Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2px;
+  white-space: nowrap;
+}
+
+.element-home-page-b .text-wrapper-2 {
+  color: #005ea2;
+  font-family: "Public Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.element-home-page-b .icon {
+  background-color: #d9e8f680;
+  background-image: url(../img/icon-1@2x.png);
+  background-size: 100% 100%;
+  border-radius: 12px;
+  height: 24px;
+  left: 130px;
+  position: absolute;
+  top: 0;
+  width: 24px;
+}
+
+.element-home-page-b .frame-3 {
+  height: 217px;
+  left: 655px;
+  position: absolute;
+  top: 20px;
+  width: 1065px;
+}
+
+.element-home-page-b .data-sets {
+  color: #162e51;
+  font-family: "Public Sans", Helvetica;
+  font-size: 22px;
+  font-weight: 700;
+  left: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 19px;
+  white-space: nowrap;
+  width: 320px;
+}
+
+.element-home-page-b .frame-4 {
+  height: 136px;
+  left: 20px;
+  position: absolute;
+  top: 61px;
+  width: 1025px;
+}
+
+.element-home-page-b .frame-5 {
+  height: 136px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 481px;
+}
+
+.element-home-page-b .span-wrapper {
+  color: #005ea2;
+  font-family: "Public Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.element-home-page-b .p {
+  color: #005ea2;
+  font-family: "Public Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 38px;
+  white-space: nowrap;
+}
+
+.element-home-page-b .span-wrapper-2 {
+  color: #005ea2;
+  font-family: "Public Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 77px;
+  white-space: nowrap;
+}
+
+.element-home-page-b .span-wrapper-3 {
+  color: #005ea2;
+  font-family: "Public Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 116px;
+  white-space: nowrap;
+}
+
+.element-home-page-b .frame-6 {
+  height: 136px;
+  left: 531px;
+  position: absolute;
+  top: 0;
+  width: 494px;
+}

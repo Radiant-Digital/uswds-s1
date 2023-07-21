@@ -1,0 +1,1 @@
+export { ElementHomePageC } from "./ElementHomePageC";
